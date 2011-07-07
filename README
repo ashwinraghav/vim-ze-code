@@ -1,0 +1,8 @@
+This contains a list of my favourite vim plugins.
+To use is just clone the repo and rename it to .vim in your home directory
+
+The plugins that I use are mostly for writing code with
+Ruby
+Rails
+Javascript
+Mustache
